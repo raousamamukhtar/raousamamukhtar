@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nextjs, Typescript, Chakra UI, Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-rmusama.vercel.app/](https://portfolio-rmusama.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://usamamukhtar.com/](https://usamamukhtar.com/)
 
 - 💬 Ask me about **Javascript**
 
